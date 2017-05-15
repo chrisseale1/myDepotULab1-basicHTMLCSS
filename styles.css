@@ -1,0 +1,218 @@
+.nav {
+    background-color: #92b9c4;
+    height: 45px;
+    width: 100%;
+    position: fixed;
+    color: white;
+    margin-top: -10px;
+    margin-left: -9px;
+    padding: 20px 0px 0px 0px;
+    text-align: center;
+    list-style: none;
+    z-index: 999999;
+}
+
+.nav-categories {
+    display: inline-block;
+    position: relative;
+    padding: 0px 10px 0px 10px;
+}
+
+a:hover {
+    color: blue;
+}
+.nav a:link {
+    color: white;
+    text-decoration: none;
+}
+.nav a:visited {
+    color:  white;
+    text-decoration: none;
+}
+
+.container {
+    padding-top: 50px;
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name-box {
+    background-color:  white;
+    top: 0px;
+    left: 0px;
+    height: 30px;
+    border: 2px black;
+    text-align: center;
+}
+
+.Name-heading {
+    color: black;
+    text-align: center;
+    top: 25px;
+    position: relative;
+}
+
+/*.jumpto {
+    top: 45px;
+}*/
+
+.h2-subheading {
+    background-color: white;
+    height: 40px;
+    width: 100%;
+    top: 50px;
+    border-top: solid 2px #92b9c4;
+    border-bottom: solid 2px #92b9c4;
+    position: relative;
+    text-align: center;
+    line-height: 40px;
+}
+
+
+.both-paragraphs {
+    padding-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-bottom: 100px;
+    height: 300px;
+    width: 100%;
+    
+}
+
+.left-paragraph {
+    margin-left: 50px;
+    height: 100px;
+    width: 40%;
+    float: left;
+    
+}
+
+.right-paragraph {
+    margin-right: 75px;
+    height: 100px;
+    width: 40%;
+    top: 25px;
+    float: right;
+}
+
+.skills-container {
+    padding-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-bottom: 75px;
+    height: 50px;
+    width: 100%;
+}
+
+.projects {
+    padding-top: 25px;
+    margin-left: 75px;
+    margin-right: 75px;
+    padding-bottom: 0px;
+    width: 100%;
+    height: 200px;
+}
+
+.paragraph-bold {
+    padding-top: 25px;
+    font-weight: bold;
+}
+
+.paragraph-regular {
+    margin-top: -20px;
+}
+
+.experience {
+    margin-left: 75px;
+    padding-top: 25px;
+}
+
+.under-position-paragraphs {
+    margin-left: 10px;
+    margin-top: -20px;
+}
+
+.education {
+    margin-left: 75px;
+    padding-top: 25px;
+}
+
+.contact-container {
+    height: 350px;
+    margin-bottom: 100px;
+}
+
+.contact-form {
+    margin-top: 75px;
+    height: 325px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: #92b9c4;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 15px;
+    padding-top: 10%;
+    padding-left: 15%;
+}
+.user-field {
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.user-message {
+    width: 350px;
+    height: 100px;
+    border-radius: 5px;
+}
+.send-button {
+    background-color: white;
+    margin-top: 10px;   
+    width: 357px;
+    height: 37px;
+    border-radius: 5px;
+    color: #92b9c4;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.space {
+    height: 5px;
+    width: 100%;
+    border-bottom: solid 3px #92b9c4;
+}
+
+.footer {
+    margin-left: auto;
+    margin-right: auto;
+    color: #92b9c4;
+    margin-bottom: 5px;
+    position: fixed;
+    text-decoration: none;
+}
+
+
+
+.Github {
+    margin-left: 325px;
+    color: #92b9c4;
+    float: left;
+}
+
+.LinkedIn {
+    margin-right: 325px;
+    float: right;
+    color: #92b9c4;
+}
+
+.copyright {
+    clear: both;
+    color: #92b9c4;
+    padding-top: -10px;
+    text-align: center;
+}
